@@ -9,7 +9,6 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 
 public class Main {
-	static final String AUTH = "Client-ID 6676c6a29041d49";
 	static final String PATH = "dog.jpg";
 	static final ImgurAPI imgurApi = createImgurAPI();
 	public static void main(String[] args) {
