@@ -3,4 +3,4 @@
 An example of using Retrofit library uploading a picture via Imgur API in an **Eclipse Java project**.<br/>
 All dependencies attached in the **libs** directory.<br/><hr/>
 
->This example is useful to support Retrofit libraries in a development on e.g. Java Servlet or Java Swing projects. 
+>This example is created for providing an useful way to support Retrofit libraries in a development on e.g. Java Servlet or Java Swing projects, otherwise Retrofit was created to support Android Studio project primarily.
