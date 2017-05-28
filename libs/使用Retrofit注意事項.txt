@@ -1,0 +1,14 @@
+務必將所有底層使用到的類別庫
+都匯入進專案中
+
+1. OkHttp 3.0.0
+2. OkIO 1.6.0
+3. Retrofit 2.2.0
+4. Converter-Gson-2.0.0-beta3
+5. Gson 2.2.3
+
+如果純撰寫java而非開發Android Studio的話
+類別庫還尚有其餘部分尚未匯入
+因此不支援某些功能
+
+例如 Callback<entity> 功能 還得自己實作出觀察者模式才行
